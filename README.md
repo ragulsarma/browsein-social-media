@@ -22,6 +22,7 @@ BrowseIn is a simplified social media app prototype that supports offline-first 
 ## 📽️ App Demo
 Below is a recorded demonstration of the app in action:
 
+[🎥 Watch the Video](https://drive.google.com/file/d/1XhIplG4wBTZvuuujNqo6Ys7aivyV2QMA/view?usp=sharing)
 
 
 ## App Architecture
